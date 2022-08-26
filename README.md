@@ -176,33 +176,28 @@ Some future improvements and research directions based on our FL setting are sum
 
 ## Appendix
 
-Model implementation of datasets for Node Classification Task: Cora dataset (Figure \ref{cora_model}), Citeseer dataset (Figure \ref{citeseer_model}), and Pubmed dataset (Figure \ref{pubmed_model}).
+Model implementation of datasets for Node Classification Task: Cora dataset (Figure 8), Citeseer dataset (Figure 9), and Pubmed dataset (Figure 10).
 
-\begin{figure}[!htb]
-    \centering
-    \resizebox{0.8\columnwidth}{!}{
-    \includegraphics[width=\textwidth]{cora_model.png}}
-    \caption{Model Implementation of Cora dataset}
-    \label{cora_model}
-\end{figure}
+<p align="center">
+<img width="600" src="https://github.com/khang4dang/Federated-Learning-on-Graph-Neural-Network/blob/main/images/Figure_8.png">
+</p>
+<p align="center"><b>
+Figure 8: Model Implementation of Cora Dataset
+</b></p>
 
-\begin{figure}[!htb]
-    \centering
-    \resizebox{0.8\columnwidth}{!}{
-    \includegraphics[width=\textwidth]{citeseer_model.png}}
-    \caption{Model Implementation of Citeseer dataset}
-    \label{citeseer_model}
-\end{figure}
+<p align="center">
+<img width="600" src="https://github.com/khang4dang/Federated-Learning-on-Graph-Neural-Network/blob/main/images/Figure_9.png">
+</p>
+<p align="center"><b>
+Figure 9: Model Implementation of Citeseer Dataset
+</b></p>
 
-\begin{figure}[!htb]
-    \centering
-    \resizebox{0.8\columnwidth}{!}{
-    \includegraphics[width=\textwidth]{pubmed_model.png}}
-    \caption{Model Implementation of Pubmed dataset}
-    \label{pubmed_model}
-\end{figure}
-
-\end{document}
+<p align="center">
+<img width="600" src="https://github.com/khang4dang/Federated-Learning-on-Graph-Neural-Network/blob/main/images/Figure_10.png">
+</p>
+<p align="center"><b>
+Figure 10: Model Implementation of Pubmed Dataset
+</b></p>
 
 ---
 <p align="center"><b>
